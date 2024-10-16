@@ -27,7 +27,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-sass-converter", "~> 1.5.2"
-  gem "minimal-mistakes-jekyll"
+#  gem "minimal-mistakes-jekyll"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
