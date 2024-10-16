@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-[Multi-Robot Navigation With Convex Programming](/projects/optimization-nav)
+[Multi-Robot Navigation With Convex Programming](/Wesley-Fisher/projects/optimization-nav)
