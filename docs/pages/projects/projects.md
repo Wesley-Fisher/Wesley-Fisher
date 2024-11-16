@@ -8,3 +8,4 @@ permalink: /projects/
 
 [Human Aware Motion Planning using Augmented PRM](/Wesley-Fisher/projects/hamp)
 
+[Inertial Parameter Identification for a Humanoid Robot Arm](/Wesley-Fisher/projects/inertial-regression)
