@@ -14,6 +14,11 @@ Reached: `https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-j
 Could not find jekyll-sass-converter-1.5.2.gem
 - Manual `gem install jekyll-sass-converter -v 1.5.2`
 
+## MathJax
+
+Followed: https://choimon.github.io/blog/mathjax-for-minimalmistakes-githubpage/
+
+
 # My Cheatsheet
 
 ## Local Testing
