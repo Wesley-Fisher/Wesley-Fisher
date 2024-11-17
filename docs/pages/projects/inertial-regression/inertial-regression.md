@@ -3,6 +3,7 @@ layout: single
 title: Inertial Parameter Identification for a Humanoid Robot Arm
 permalink: /projects/inertial-regression/
 ---
+{% include mathjax-custom.html %}
 
 (I'm investigating ways to get LaTeX or another math-rendering method working for these sites, and will leave my LaTeX here for now)
 
@@ -24,7 +25,7 @@ This project served as an excellent introduction to this area of rigid-body dyna
 
 From the 2016 Spring Handbook of Robotics by Siciliano and Khatib, the relationship between the forces acting on each joint of the robot (tau), and the inertial parameters of masses beyond said joint, is linear. This linear equation can be stacked for each joint, and again for multiple poses and actions, to create a linear system which can be solved for the parameters (phi):
 
- \tau = A*\Phi 
+ $$  \tau = A*\Phi  $$
 
 To create the elements of this equation, I used the Pinocchio rigid body dynamics library. This library can perform the inverse dynamics calculation required to calculate expected joint torques give current joint position, speed, and a guess of inertial parameters.
 
@@ -37,7 +38,7 @@ Experimentally determining the inertial parameters of a system is a problem that
 
 To deal with this, I tested several poses of the robot in simulation. At each of these simulated poses, I could calculate the new addition to the stacked regressor matrix. This regressor matrix can be used to calculate the variance of the inertial parameters upon solving the linear equation:
 
- \Sigma= noise^2 (A^T)^{-1} 
+ $$  \Sigma= noise^2 (A^T)^{-1}  $$
 
 Choosing the configuration which leads to the smallest value for the largest variance, or the condition number of A, leads to faster convergence of the solution.
 
@@ -54,7 +55,7 @@ We were able to solve for a small subset of the robot parameters. Using these ne
 
 The first improvement which can be made would be to recast the problem as solving for deviations to our provided parameters instead of solving for the parameters themselves. This would have the effect of constraining the problem, as many parameters exist only as linear combinations of each other, and cannot be mathematically distinguished otherwise. In fact, while our method lead to less error in calculating torques, some estimated parameters were wildly off their provided values. This recasting would have a normalizing effect.
 
-  \begin{bmatrix}\Delta \tau \\ 0 \end{bmatrix} = \begin{bmatrix} A  \\ I \end{bmatrix} \Delta \Phi  
+$$  \begin{vmatrix}\Delta \tau \\ 0 \end{vmatrix} = \begin{vmatrix} A  \\ I \end{vmatrix} \Delta \Phi  $$
 
 I also looked into many other sources of error, with none explaining the major difference in the parameters we calculated.
 
