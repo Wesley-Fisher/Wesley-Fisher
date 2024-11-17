@@ -5,7 +5,6 @@ permalink: /projects/inertial-regression/
 ---
 {% include mathjax-custom.html %}
 
-(I'm investigating ways to get LaTeX or another math-rendering method working for these sites, and will leave my LaTeX here for now)
 
 ![TALOS Gazebo Model](/Wesley-Fisher/pages/projects/inertial-regression/talos_static_experiment_gazebo.png) 
 
