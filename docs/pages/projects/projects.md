@@ -12,6 +12,8 @@ permalink: /projects/
 
 # Class Projects
 
+[Capstone Engineering Project](/projects/capstone)
+
 [Inertial Parameter Identification for a Humanoid Robot Arm](/projects/inertial-regression)
 
 [Multi-Robot Navigation With Convex Programming](/projects/optimization-nav)
