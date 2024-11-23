@@ -44,3 +44,42 @@ Lifecycle Analysis: The software enables reliability and lifecycle analysis by t
 ## Thank you to our wonderful sponsors
 
 ![Sponsors](sponsor_ribbon.png)
+
+
+---
+---
+
+# About
+
+We a team of five fourth-year Mechatronics engineering students at the University of Waterloo. Together, we form the team working on Project Centaur.
+
+We're building a mobile robot to inspect the boiler rooms of nuclear power plants. The robot is intended to perform routine maintenance tasks like temperature measurement, noise measurement, and pipe inspection. Automation of these tasks would reduce the exposure of workers to the hostile environment of the boiler room, where radiation is a concern.
+
+## Faculty Advisors
+
+* Dr. Sanjeev Bedi
+  * Professor, PhD, PEng
+  * Department of Mechanical and Mechatronics Engineering
+* Dr. Baris Fidan
+  * Associate Professor, PhD, PEng
+  * Department of Mechanical and Mechatronics Engineering
+
+
+### Overall Robot View:
+
+![Model of Centaur robot](centaur_model.png)
+
+### Top View:
+
+![Top View](top_view.png)
+
+### Navigation Sensors:
+
+![First navigation sensor](nav_sensor_01.png)
+
+![Second navigation sensor](nav_sensor_02.png)
+
+## Read-Mounted 3D Scanner
+![Rear 3D Scanner](bracket_lidar_utm_mounted.png)
+
+
