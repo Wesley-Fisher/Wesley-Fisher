@@ -12,6 +12,8 @@ permalink: /projects/
 
 # Class Projects
 
+[Capstone Engineering Project](/Wesley-Fisher/projects/capstone)
+
 [Human Aware Motion Planning using Augmented PRM](/Wesley-Fisher/projects/hamp)
 
 [Inertial Parameter Identification for a Humanoid Robot Arm](/Wesley-Fisher/projects/inertial-regression)
