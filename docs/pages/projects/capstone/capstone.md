@@ -83,3 +83,36 @@ We're building a mobile robot to inspect the boiler rooms of nuclear power plant
 ![Rear 3D Scanner](bracket_lidar_utm_mounted.png)
 
 
+---
+---
+
+# The Team
+
+(Updated Note: I may remove or update descriptions and links to media of team members if requested by them. I've removed personal images to avoid storing them in this website.)
+
+
+## Eric Shi: Project Lead
+
+Eric leads the team's efforts to develop an advanced mobile robot in an 8-month time span. He is experienced with robotics and also works on the robotic arm and control system for maneuvering the robot. Eric has interned at companies such as Canadian Tire, TELUS, and Apple during his University career.
+
+
+## Wesley Fisher: Simulation Lead
+
+Wesley leads work on designing a simulation of the robot and robot components for testing and design. He also works with the controls of the robot arm.
+
+
+## Adam Heins: Perception Lead
+
+Adam leads work on the vision system for pipe detection, in addition to writing a considerable amount of software to interface with and control the robot arm.
+
+[https://adamheins.com](https://adamheins.com)
+
+
+## Jesse Lopes
+
+Jesse leads the mechanical design, which includes building, assembly and modifications to the Centaur platform.
+
+
+## Rahul Rawat
+
+Rahul leads the development of the drive and autonomy systems on the mobile robot. In addition, Rahul works on integrating sensor data into the robot and simulating the mobile system in simulation.
