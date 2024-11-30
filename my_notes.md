@@ -42,9 +42,11 @@ Navigation Entries
 
 Manual Link to Page
 * Filepath: `/docs/pages/projects/optimization-nav/optimization-nav.md`
-* Link: `[text](/Wesley-Fisher/projects/optimization-nav)`
+* Link: `[text](/projects/optimization-nav)`
 * Deployed: `https://wesley-fisher.github.io/Wesley-Fisher/projects/optimization-nav/`
+* Deployed: `wesleyfisher.ca/projects/optimization-nav/`
 
 Media on Page
 * Filepath: `/docs/pages/projects/optimization-nav/corridor.gif`
-* Link: `![gif](/Wesley-Fisher/pages/projects/optimization-nav/corridor.gif)`
+* Link: `![gif](/pages/projects/optimization-nav/corridor.gif)`
+* Link: `![gif](corridor.gif)` (from .md file in same directory)

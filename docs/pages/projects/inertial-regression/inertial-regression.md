@@ -43,12 +43,12 @@ Choosing the configuration which leads to the smallest value for the largest var
 
 The figure below shows how the variances converge after a given number of samples (‘regressions’) and maximum commanded joint velocities as a percentage of maximum physical joint velocities. The graph shows that higher speeds lead to greater convergence, which can intuitively be explained by exciting dynamic parameters to a greater extent.
 
-![Design of Experiment](/Wesley-Fisher/pages/projects/inertial-regression/vel_limits_on_convergence.png) 
+![Design of Experiment](vel_limits_on_convergence.png) 
 
 
 # Results and Error Analysis
 
-![TALOS Robot](/Wesley-Fisher/pages/projects/inertial-regression/talos_static_experiment.png)
+![TALOS Robot](talos_static_experiment.png)
 
 We were able to solve for a small subset of the robot parameters. Using these new parameters, we were able to calculate the expected joint torques at several poses with less error than our initial (provided by the manufacturer) parameters.  To end the project, I performed further error analysis and identified ways to improve the process.
 

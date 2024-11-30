@@ -59,7 +59,7 @@ While my time at UW is coming to an end, we plan on working in two major directi
 4. Creating a cloud-based service to view feedback from the car
 5. Finally coming up with a name for the project
 
-![Car on tape-based road](/pages/projects/rc-car-platform/IMG_2613.png)
+![Car on tape-based road](/pages/projects/rc-car-platform/IMG_2613.jpeg)
 
 
 # UW IDEAS Clinic
