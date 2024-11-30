@@ -6,7 +6,7 @@ permalink: /projects/inertial-regression/
 {% include mathjax-custom.html %}
 
 
-![TALOS Gazebo Model](/Wesley-Fisher/pages/projects/inertial-regression/talos_static_experiment_gazebo.png) 
+![TALOS Gazebo Model](/pages/projects/inertial-regression/talos_static_experiment_gazebo.png) 
 
 
 # Overview

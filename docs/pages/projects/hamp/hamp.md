@@ -6,7 +6,7 @@ permalink: /projects/hamp/
 
 This project came from a research project worked on mainly by another graduate student in my lab. This was around 2019-2020.
 
-![PRM map and results](/Wesley-Fisher/pages/projects/hamp/prm_astar_results.png)
+![PRM map and results](/pages/projects/hamp/prm_astar_results.png)
 
 The motivation of this project was to improve the human experience in collaborative/close-proximity tasks by using a human-aware motion planner. The 'human aware' aspects, when considered, would ideally lead to robot motion planning and execution that would be easier for a collaborating human to work with.
 
@@ -42,7 +42,7 @@ I ran an A* planning on this PRM with different costs applied, shown as differen
 * Grey: cost for moving directly towards the black object
 * Blue: cost for moving into high-cost nodes (this was the only planner with this information)
 
-![PRM map and results](/Wesley-Fisher/pages/projects/hamp/prm_astar_results.png)
+![PRM map and results](/pages/projects/hamp/prm_astar_results.png)
 
 I've implemented planning algorithms in other courses, but the ones that I can remember used fairly standard cost functions; usually/likely euclidean or joint-space distance between nodes. It was interesting to see the difference that adding these non-standard cost functions could introduce. In particular, the behavior of the Blue path to avoid the higher-cost regions, while the Grey planner spent significant time in one region to avoid approaching the black obstacle.
 

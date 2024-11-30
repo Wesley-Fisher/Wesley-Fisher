@@ -6,7 +6,7 @@ permalink: /projects/optimization-nav/
 
 From MASc. Course: `ECE 602 – Introduction to Optimization`
 
-![gif](/Wesley-Fisher/pages/projects/optimization-nav/corridor.gif)
+![gif](/pages/projects/optimization-nav/corridor.gif)
 
 # Overview
 
@@ -40,7 +40,7 @@ Seen in the animation is:
 * Green Dot: growth point of final $P_fog$ (term from paper)
 * Blue Dot: current goal point (we use multiple to navigate a large map)
 
-![gif](/Wesley-Fisher/pages/projects/optimization-nav/corridor.gif)
+![gif](/pages/projects/optimization-nav/corridor.gif)
 
 
 # Further Technical Details

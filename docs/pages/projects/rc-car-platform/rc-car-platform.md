@@ -6,7 +6,7 @@ permalink: /projects/rc-car-platform/
 
 (Unlike other projects on this site, I've left this as it was originally written)
 
-![RC Car Platform](/Wesley-Fisher/pages/projects/rc-car-platform/car_cropped.png)
+![RC Car Platform](/pages/projects/rc-car-platform/car_cropped.png)
 
 Working with the UW IDEAS Clinic and another MASc student, I helped to modify an RC car into an educational platform for future students.
 
@@ -32,11 +32,11 @@ The car that we’re using comes from an RC car. We’re making use of the base 
 * RPlidar lidar
 * Other electrical and connection components
 
-![RC Car Platform](/Wesley-Fisher/pages/projects/rc-car-platform/car_cropped.png)
+![RC Car Platform](/pages/projects/rc-car-platform/car_cropped.png)
 
 While we’ve used this platform to focus on integrating with sensors and creating proof-of-concept demos/algorithms, other students with the IDEAS Clinic have been developing a separate chassis and selecting a set of custom motors and controllers.
 
-![RC Car Platform](/Wesley-Fisher/pages/projects/rc-car-platform/new_chassis.png)
+![RC Car Platform](/pages/projects/rc-car-platform/new_chassis.png)
 
 # Software
 
@@ -44,9 +44,9 @@ My work has mainly been on the software development side. We’ve used ROS to co
 
 In addition, we’ve created a simulated version of the car to help with our own initial development, and later to provide simulated testing for students.
 
-![Simulation World](/Wesley-Fisher/pages/projects/rc-car-platform/sim_world.png){: width="350"}
+![Simulation World](/pages/projects/rc-car-platform/sim_world.png){: width="350"}
 
-![Sensor Outputs](/Wesley-Fisher/pages/projects/rc-car-platform/sensor_demo.png){: width="350"}
+![Sensor Outputs](/pages/projects/rc-car-platform/sensor_demo.png){: width="350"}
 
 
 # Future Work
@@ -59,7 +59,7 @@ While my time at UW is coming to an end, we plan on working in two major directi
 4. Creating a cloud-based service to view feedback from the car
 5. Finally coming up with a name for the project
 
-![Car on tape-based road](/Wesley-Fisher/pages/projects/rc-car-platform/IMG_2613.png)
+![Car on tape-based road](/pages/projects/rc-car-platform/IMG_2613.png)
 
 
 # UW IDEAS Clinic

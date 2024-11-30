@@ -4,10 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-[Multi-Robot Navigation With Convex Programming](/Wesley-Fisher/projects/optimization-nav)
+[Multi-Robot Navigation With Convex Programming](/projects/optimization-nav)
 
-[Human Aware Motion Planning using Augmented PRM](/Wesley-Fisher/projects/hamp)
+[Human Aware Motion Planning using Augmented PRM](/projects/hamp)
 
-[Inertial Parameter Identification for a Humanoid Robot Arm](/Wesley-Fisher/projects/inertial-regression)
+[Inertial Parameter Identification for a Humanoid Robot Arm](/projects/inertial-regression)
 
-[Autonomous Car Educational Platform](/Wesley-Fisher/projects/rc-car-platform)
+[Autonomous Car Educational Platform](/projects/rc-car-platform)
