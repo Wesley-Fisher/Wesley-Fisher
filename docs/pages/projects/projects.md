@@ -4,10 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-[Multi-Robot Navigation With Convex Programming](/projects/optimization-nav)
+
+# Research Projects
 
 [Human Aware Motion Planning using Augmented PRM](/projects/hamp)
 
+
+# Class Projects
+
+[Capstone Engineering Project](/projects/capstone)
+
 [Inertial Parameter Identification for a Humanoid Robot Arm](/projects/inertial-regression)
+
+[Multi-Robot Navigation With Convex Programming](/projects/optimization-nav)
+
+
+# Personal Projects
 
 [Autonomous Car Educational Platform](/projects/rc-car-platform)
